@@ -1,0 +1,37 @@
+body{
+    background-color: aliceblue;
+    font-size: larger;
+
+}
+
+h1 {
+
+    color: grey;
+    font-family: sans-serif;
+}
+
+div {
+
+    width: 80%;
+    background-color: #fff;
+    box-shadow: 0 0  20px 0 #999;
+    top: 10%;
+    left: 10%;
+    position:relative;
+
+}
+
+table {
+
+    border-collapse: collapse;
+    width: 70%;
+    margin-left: 10%;
+
+}
+
+th,td {
+
+    text-align: center;
+    padding: 10px;
+
+}
